@@ -10,7 +10,7 @@ const styles = StyleSheet.create({
     backgroundColor: color('#3c444d').lighten(0.2).hex(),
   },
   footerTabTextActive: {
-    backgroundColor: '#fff',
+    color: '#fff',
   },
   footerTabCentral: {
     borderLeftColor: '#cbcfd4',
